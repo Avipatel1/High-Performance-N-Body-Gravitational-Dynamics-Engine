@@ -76,8 +76,8 @@ The absolute consistency of the $\frac{T^2}{a^3}$ ratio across multi-variable or
 
 1. Clone the repository to your local directory:
    ```bash
-   git clone https://github.com/Avipatel1/Scientific-Computing-Projects.git
-   cd PhysicsSimulator
+   git clone [https://github.com/Avipatel1/Scientific-Computing-Projects.git](https://github.com/Avipatel1/High-Performance-N-Body-Gravitational-Dynamics-Engine.git)
+   cd High-Performance-N-Body-Gravitational-Dynamics-Engine
    ```
 2. Compile and run the C++ numerical engine to calculate and cache orbital coordinates:
    ```bash
